@@ -1,0 +1,33 @@
+*{
+    box-sizing:border-box;
+}
+
+.active{
+    color: white;
+    font-weight: bold;
+}
+a i:hover {
+    color: #fff;
+}
+
+a{
+    color: lightskyblue;
+    text-decoration: none;
+}
+
+header{
+    margin: 7%;
+}
+nav a{
+    margin-left:17%;
+}
+
+ul,li{
+    display: inline-block;
+    margin-left: 5%;
+}
+
+.contenedor{
+    margin-bottom: 30%;
+}
+
